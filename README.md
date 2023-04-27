@@ -1,0 +1,1 @@
+# There is an array sorted in ascending order. The program search for the index of the declared element and returns such index or returns "-1"if there is no such element.
